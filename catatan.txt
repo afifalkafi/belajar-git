@@ -1,2 +1,3 @@
 saya sedang belajar git.
 saya mulai memahami commit.
+ini adalah perubahan di branch latihan
