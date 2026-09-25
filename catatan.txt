@@ -3,3 +3,4 @@ saya mulai memahami commit.
 ini adalah perubahan di branch latihan
 ini perubahan baru di branch latihan.
 
+belajar tiga area git,
