@@ -4,3 +4,4 @@ ini adalah perubahan di branch latihan
 ini perubahan baru di branch latihan.
 
 belajar tiga area git,
+setelah versi v1.0
