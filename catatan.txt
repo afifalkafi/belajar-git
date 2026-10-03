@@ -5,3 +5,4 @@ ini perubahan baru di branch latihan.
 
 belajar tiga area git,
 setelah versi v1.0
+perubahan baru untuk belajar push.
