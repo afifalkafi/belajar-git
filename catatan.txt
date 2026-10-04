@@ -8,4 +8,4 @@ belajar tiga area git,
 setelah versi v1.0
 perubahan baru untuk belajar push.
 perubahan dari hasil clone.
-peerubahan lokal tanpa push.
+perubahan langsung dari GitHub.
