@@ -9,3 +9,4 @@ setelah versi v1.0
 perubahan baru untuk belajar push.
 perubahan dari hasil clone.
 perubahan langsung dari GitHub.
+perubahan untuk simulasi fetch.
